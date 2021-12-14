@@ -1,0 +1,24 @@
+Hardware -: Micro controler -: 
+
+HW -:  OS  -: Application 
+
+Laptop -: Linux/Windows -: GCC / Turbo c
+
+
+embedded Board -: OS Linux -: Sensors
+ 
+ 
+ Application  -: Linux Os -: Sensors -:
+ C, C++ , Java , pyrhong -: Linux OS   -: LED/LCD
+ c    -: linux os -: sensor
+      Linux system programming -: malloc, calloc, printf, 
+	  
+	  Linux oS -:Linux driver -: sensor
+	  
+	  C indpth 
+	  LSP
+	  Linux driver programming
+	  
+  
+ 
+ 
