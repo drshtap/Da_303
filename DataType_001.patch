@@ -1,0 +1,99 @@
+Why we are writing a program??
+
+  -: Program is process of data
+
+  What is data ?
+   
+	Const
+	variable
+
+ Character
+---------------------
+   constant char 
+   variable char
+
+
+ integer
+---------------------
+   constant int 
+   variable int
+
+
+char const 
+          -:     , '1' , '@' ,'Z' ,'z'
+   char constant stored in ascii value
+
+integer constant 
+      123   , 0x123   , 0123
+      
+	  10 - 0000 1010
+	  10 - 0000 1010 = 0x0A
+	  10 - 0000 1010
+	  10 - 00 001 010 = 012 octol
+	  
+	  001 1
+	  010 2
+	  011 3
+	  100 4
+	  101 5
+	  110 6
+	  111 7
+	1 000 8 = 010  
+	1 001 9 = 011
+    1 010 10= 012
+	  
+float constant 
+	1.5f , -3.5f
+
+Double Constant
+       1.22222f, 3.55555f
+
+String constant
+      "Guajarat"  ,"123" ,
+
+---------------------------------------------
+
+variable -: 
+   
+    syntax :  Datatype  Variable name ;
+               char       ch;
+
+               int 	a;
+
+  
+'a'...........'z'
+'A'............'Z'
+ 0.............9
+
+
+Note -: 1st letter should not be start with digit
+      -: keywords can not be used as variable
+
+
+--------------------------------------------------------
+Kerwords -:
+
+charactor
+----------------------
+char ch ;
+
+Size -: 1 byte
+
+0000 0000 = Min = 0 
+1111 1111 = Max =256-1 = 255
+
+negative number && positive 
+
+            0..... 127 = 256- 127=>> 129
+			 129 -1 = 128
+
+-128 -2-1   0
+
+
+-128... 0....127 = signed variable
+ 0            255 = unsigned
+------------------------------------------
+
+1. How negative value stored in char
+2. how to print A , 1 , @ , Hex format , decimal, octal.
+3. What is signed char and unsigned char?
